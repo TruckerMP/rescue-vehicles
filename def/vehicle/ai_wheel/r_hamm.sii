@@ -1,0 +1,10 @@
+SiiNunit
+{
+accessory_wheel_data : rwheel.hammer
+{
+	model: "/vehicle/wheel/hamm/hammer.pmd"
+	front_wheel:false
+}
+}
+
+

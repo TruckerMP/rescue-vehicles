@@ -1,0 +1,10 @@
+SiiNunit
+{
+accessory_wheel_data : fwheel.20in2.jaguar
+{
+	model: "/vehicle/wheel/20in2/volvo_wheel.pmd"
+	front_wheel:true
+}
+}
+
+

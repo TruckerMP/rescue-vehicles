@@ -1,0 +1,9 @@
+material : "eut2.dif.spec" {
+	texture[0] : "generic_tire01.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.219608 , 0.219608 , 0.219608 }
+	specular : { 0.247059 , 0.247059 , 0.247059 }
+	shininess : 210
+	add_ambient : 0
+
+}

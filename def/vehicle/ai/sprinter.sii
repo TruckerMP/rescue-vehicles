@@ -1,0 +1,41 @@
+traffic_vehicle : traffic.sprinter	
+{
+	accessories[]: .sprinter.chassis
+	accessories[]: .sprinter.fwheel
+	accessories[]: .sprinter.rwheel
+
+	allow_parked: false
+	
+	max_speed: 140
+	
+	lod_dist[]: 300
+	lod_dist[]: 350
+	
+	headlights_diffuse : (0.9418, 0.9291, 0.6661)
+	headlights_offset : -0.8
+	headlights_pitch: -7
+	headlights_range: 20.0
+	headlights_angle: 95.0
+	headlights_aspect: 2
+	headlights_mask: "/material/custom/trucklight_mask_norm.tobj"
+	headlights_attenuation: "/material/custom/trucklight_attn.tobj"
+	headlights_intensity_min: 0.7
+	headlights_intensity_max: 2.5
+}
+
+vehicle_accessory: .sprinter.chassis
+{
+    	data_path: "/def/vehicle/ai/sprinter/chassis.sii"
+}
+
+vehicle_wheel_accessory: .sprinter.fwheel
+{
+	offset: 0
+    	data_path: "/def/vehicle/ai_wheel/front_16in.sii"
+}
+
+vehicle_wheel_accessory: .sprinter.rwheel
+{
+	offset: 0
+    	data_path: "/def/vehicle/ai_wheel/rear_16in.sii"
+}

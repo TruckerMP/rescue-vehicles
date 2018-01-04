@@ -1,0 +1,10 @@
+SiiNunit
+{
+accessory_wheel_data : rwheel.16in.moto
+{
+	model: "/vehicle/wheel/16in/moto_whell.pmd"
+	front_wheel:false
+}
+}
+
+

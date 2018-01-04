@@ -1,0 +1,17 @@
+SiiNunit
+{
+mod_package : .package_name {
+
+    package_version: "V1"
+
+    display_name: "AI Rescue Vehicles"
+
+    author: "Fliptop72, Bluscream"
+
+    category[]: "ai_traffic"
+
+    icon: "icon.jpg"
+
+    description_file: "description.txt"
+}
+}

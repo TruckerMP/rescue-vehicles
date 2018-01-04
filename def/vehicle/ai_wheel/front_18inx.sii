@@ -1,0 +1,10 @@
+SiiNunit
+{
+accessory_wheel_data : fwheel.18inx.bmw
+{
+	model: "/vehicle/wheel/18in/bmw_whee1.pmd"
+	front_wheel:true
+}
+}
+
+

@@ -1,0 +1,9 @@
+material : "eut2.dif.spec" {
+	texture[0] : "vlg_bot.tobj"
+	texture_name[0] : "texture_base"
+	diffuse : { 0.658824 , 0.658824 , 0.658824 }
+	specular : { 0.156863 , 0.156863 , 0.156863 }
+	shininess : 102
+	add_ambient : 0
+
+}

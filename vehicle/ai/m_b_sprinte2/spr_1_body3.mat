@@ -1,0 +1,11 @@
+material : "eut2.dif.spec" {
+	texture[0] : "black.tobj"
+	texture_name[0] : "texture_base"
+	texture[1] : "black.tobj"
+	texture_name[1] : "texture_base"
+	diffuse : { 0.8 , 0.8 , 0.8 }
+	specular : { 0.0784314 , 0.0784314 , 0.0784314 }
+	shininess : 25
+	add_ambient : 0
+
+}

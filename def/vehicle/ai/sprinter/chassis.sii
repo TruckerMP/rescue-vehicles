@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_chassis_data : chassis.sprinter
+{
+	model: "/vehicle/ai/m_b_sprinter/ai.pmd"
+	lods[]: "/vehicle/ai/m_b_sprinter/ai.pmd"	
+	lods[]: "/vehicle/ai/m_b_sprinter/ai.pmd"	
+	collision: "/vehicle/ai/m_b_sprinter/ai.pmc"
+
+	shadow_texture: "/vehicle/ai/share/shadow_occlusion.tobj"
+	shadow_intensity: 1.2
+
+	variant: default
+	variant_uk: default
+	look: default
+}
+}
