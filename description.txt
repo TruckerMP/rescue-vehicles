@@ -1,4 +1,15 @@
 AI Rescue Vehicles by Fliptop72.
-
-
 Modified by Bluscream
+
+[NOTES]
+m_b_polize1 = rv_car_traffic_enforcement
+m_b_polize2 = rv_car_ambulance
+m_b_polize3 = rv_car_police
+m_b_polize4 = rv_car_polizei_blue
+m_b_polize5 = rv_car_polizei_green
+m_b_polize6 = rv_car_notarzt
+m_b_polizei = rv_car_traffic_officer
+m_b_sprinte1 = rv_van_dhl
+m_b_sprinte2 = rv_van_parcelforce
+m_b_sprinte3 = rv_van_fedex
+m_b_sprinter = rv_van_ups
